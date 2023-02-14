@@ -1,0 +1,9 @@
+# VPN Monitoring
+
+The rise of remote and hybrid work has led to a mass decentralization of the workforce, with more employees than ever being able to choose where their work gets done. In order to securely connect enterprise resources—from inside the corporate WAN, through the firewall, to remote users—most workers rely on an SSL or IPSec virtual private network (VPN).&#x20;
+
+While VPNs are great at securing data and traffic for a distributed remote workforce, they can also introduce a level of complexity and opacity that makes it extremely difficult for IT to troubleshoot application and network performance issues that impact end users. Those challenges are even more pronounced when VPN sessions coincide with the use of collaboration applications, such as real-time videoconferencing, whose multi-session complexities are exacerbated by split tunnel configurations.&#x20;
+
+Addressing the visibility challenges that VPNs introduce is essential to providing exceptional user experience and application performance to anyone connecting through a VPN tunnel. However, not all VPN tunnel monitoring delivers the deep insights your team needs.&#x20;
+
+Simply providing visibility into parts of the service delivery chain is not, on its own, a solution to VPN performance issues. Monitoring VPN traffic needs to be done primarily from the end user’s perspective to fully understand the complete service delivery chain, from the local environment conditions through to the target endpoint. The VPN monitoring tool also needs to be focused on actionable correlated metrics that show, for example, how application availability, functionality, page load times, or VoIP quality are affected by factors, such as VPN loss or VPN latency. Knowing those will allow you to resolve issues for VPN users, regardless of their IP address, more quickly and ultimately enable you to move into a more continuous improvement process.

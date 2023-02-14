@@ -1,0 +1,7 @@
+# SD-WAN Performance Monitoring
+
+Enterprises are increasingly leveraging cloud-based applications and embracing the mobility of a growing distributed workforce. As evolving business needs have dramatically expanded to include software as a service (SaaS) and cloud, the prospect of rising transport costs and suboptimal application performance is driving enterprises to move to wide area networks (WANs) that are software-defined, Internet-centric, and architected for optimal interconnection with cloud and external services.&#x20;
+
+A software-defined WAN (SD-WAN) can help make enterprise networks cloud ready, more cost-efficient, and better suited to delivering quality digital experiences to customers and employees. However, ensuring that an SD-WAN delivers on expectations requires a modern approach to monitoring that addresses network visibility and application performance equally well.&#x20;
+
+Simple edge-to-edge performance monitoring is no longer enough. Today’s IT and network operation teams need correlated visibility into network underlay and overlay paths and performance metrics, web servers, end-user experience, and application-layer performance, as well as routing issues and Internet outages. ThousandEyes uniquely offers an unmatched set of vantage points to meet the full spectrum of planning and operational visibility needs to help you ensure WAN performance and empower the employee and customer digital experience.
