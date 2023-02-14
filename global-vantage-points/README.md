@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Global Vantage Points
 
 ThousandEyes' global vantage points are lightweight, Linux-based software agents that allow users to run a variety of layered monitoring tests, in order to gain insight into network and application performance and user experience.

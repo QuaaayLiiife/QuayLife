@@ -1,0 +1,3 @@
+# Using the Device Layer View
+
+The Diagram tab graphically presents data from the interfaces of the selected device, which permits quick identification of the interfaces with the highest amount of throughput. Additionally, by displaying side-by-side the throughput per input and per output interfaces, from highest to lowest throughput, the direction of the traffic flows can be inferred. Click and drag down or up on the slider window between the INPUT and OUTPUT columns to scroll through the interfaces displayed in the window. Inside the slider window are the throughput histograms for the currently displayed input and output interfaces.

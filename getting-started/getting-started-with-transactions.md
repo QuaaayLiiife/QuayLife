@@ -110,7 +110,7 @@ await click(By.css(\`\[href="https://docs.thousandeyes.com/"] > .LC20lb\`));
 
 You have now successfully recorded your first transaction test. The next step in the browser synthetics development workflow is to play the test to verify it works as expected. If you would like a better understanding of the generated code for this transaction script, continue on to the next section below. Otherwise, jump ahead to the
 
-Playback
+[Playback](broken-reference)
 
 section.
 
@@ -187,17 +187,17 @@ Once you have recorded a transaction, you can play the script to test that it wo
 
 If everything worked correctly, the Chromium window will close and no errors will be reported. If your test playback worked successfully, then you should
 
-optimize
+[optimize](broken-reference)
 
 the script by adding markers, screenshots, and configuring credentials, then
 
-export
+[export](broken-reference)
 
 the script as a scheduled transaction test in the ThousandEyes platform.
 
 If any errors were encountered while executing the script, they will be reported in the Recorder IDE’s console located in the bottom pane of the window, as seen below. When an error occurs, the Recorder IDE will also capture a screenshot from the browser and highlight the lines of code leading to the error. If your test playback encountered errors, then you should proceed to
 
-troubleshooting
+[troubleshooting](broken-reference)
 
 the script so that it correctly and completely emulates the user journey without errors.
 
@@ -427,7 +427,7 @@ It is important to validate that the transaction runs successfully on the agents
 
 After you export your test, click the **View test** link in the success dialog to open the test settings in platform. At the bottom of the test settings panel, click the **Run Once** button to run an instant test in a new browser tab. Wait for the test results and then verify that all of the agents successfully completed the transaction. If any errors occur, click the **Run Again** link above the timeline in the view to determine if the error is consistent or intermittent. Then, refer back to the
 
-troubleshooting
+[troubleshooting](broken-reference)
 
 section to determine the cause of the error.
 
@@ -459,7 +459,7 @@ When you export a Transaction test, you can see the test data under **Cloud & En
 
 . For general information on the ThousandEyes standard view layout, see
 
-[Getting Started with Views](https://docs.thousandeyes.com/product-documentation/getting-started/getting-started-with-views)
+[Getting Started with Views](broken-reference)
 
 . This section highlights specifics shown in the Transaction view.
 

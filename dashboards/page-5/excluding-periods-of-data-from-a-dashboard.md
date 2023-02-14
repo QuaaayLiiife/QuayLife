@@ -1,0 +1,3 @@
+# Excluding Periods of Data From a Dashboard
+
+ThousandEyes dashboards do not provide arbitrary exclusion of test data by time period. However, you can exclude test data from a dashboard by setting up an alert suppression window, and setting this up in advance as described in \[Alert Suppression Windows]\(https://docs.thousandeyes.com/product-documentation/alerts/alert-suppression-windows. This feature blocks alert rules from being triggered during the time specified in the alert suppression configuration. Any data collected during this time, on the applied tests, can be omitted on a widget-by-widget basis from Cloud & Enterprise Agents and routing data sources. The image below shows the location of the setting, boxed in orange.
