@@ -271,3 +271,4 @@
   * [TEST DATA](thousandeyes-developer-reference-v7/test-data.md)
   * [ALERTS & NOTIFICATIONS](thousandeyes-developer-reference-v7/alerts-and-notifications.md)
   * [DASHBOARDS](thousandeyes-developer-reference-v7/dashboards.md)
+* [Cisco ThousandEyes Synthetic Monitoring](cisco-thousandeyes-synthetic-monitoring.md)
